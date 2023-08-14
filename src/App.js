@@ -25,7 +25,7 @@ function App() {
           displaySats={displaySats} 
          />
          <Table sat={sat} />
-         <satData />
+         {/* <satData /> */}
       </div>
       
     </div>
